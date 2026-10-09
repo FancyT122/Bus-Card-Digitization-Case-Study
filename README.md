@@ -48,7 +48,8 @@ Qua khảo sát thực địa, quy trình thủ công hiện tại được mô 
 Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý giữa các bên liên quan: từ lúc người dân nộp đơn trực tiếp tại bến xe, qua các khâu xử lý nội bộ, chuyển xưởng in gia công, đến khi nhận thẻ cứng tại quầy.
 
 <p align="center">
-  *(Bạn kéo thả file ảnh AS-IS-00 vào đây)*
+  <img width="16384" height="7048" alt="image" src="https://github.com/user-attachments/assets/c3e58045-b191-4206-a4c3-2952cbbc834a" />
+
 </p>
 
 ### AS-IS 01: Phân luồng, tiếp nhận kê khai và viết tay đơn giấy
