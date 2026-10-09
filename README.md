@@ -48,8 +48,8 @@ Qua khảo sát thực địa, quy trình thủ công hiện tại được mô 
 Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý giữa các bên liên quan: từ lúc người dân nộp đơn trực tiếp tại bến xe, qua các khâu xử lý nội bộ, chuyển xưởng in gia công, đến khi nhận thẻ cứng tại quầy.
 
 <p align="center">
-  <img width="16384" height="7048" alt="image" src="https://github.com/user-attachments/assets/c3e58045-b191-4206-a4c3-2952cbbc834a" />
-
+  
+<img width="16384" height="7048" alt="as00" src="https://github.com/user-attachments/assets/182c49ed-077b-433b-831b-601a5f49fc33" />
 </p>
 
 ### AS-IS 01: Phân luồng, tiếp nhận kê khai và viết tay đơn giấy
@@ -57,8 +57,7 @@ Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý
 *   **Điểm nghẽn (Pain points):** Việc biến động địa giới hành chính (sáp nhập phường/quận) khiến người dân khai báo địa chỉ cũ. Cán bộ phải dừng thao tác để tra cứu thủ công và ánh xạ (mapping) sang phường/quận mới, gây ùn tắc cục bộ kéo dài. Nhập liệu kép bằng tay gây mệt mỏi và rủi ro sai sót thông tin rất cao.
 
 <p align="center">
-  *(Bạn kéo thả file ảnh AS-IS-01 vào đây)*
-  <img width="701" height="708" alt="Ảnh chụp màn hình 2026-05-11 224517" src="https://github.com/user-attachments/assets/b07ad453-2529-4f93-a6a8-01aef8407d1a" />
+  <img width="16384" height="9333" alt="as-01" src="https://github.com/user-attachments/assets/8e20392a-f841-4f22-b3b1-5e81dd2d6ea5" />
 
 </p>
 
@@ -70,7 +69,8 @@ Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý
     *   Việc quản lý file phân tán bằng cách tạo thư mục cục bộ dễ dẫn đến nhầm lẫn tên file ảnh giữa các công dân, gây khó khăn cho khâu đối chiếu.
 
 <p align="center">
-  *(Bạn kéo thả file ảnh AS-IS-02 vào đây)*
+ <img width="9776" height="5340" alt="as02" src="https://github.com/user-attachments/assets/cbae8dae-1486-4d3f-8f51-f5270040510f" />
+
 </p>
 
 ### AS-IS 05: Tra cứu hai tầng và bàn giao thẻ thủ công
@@ -80,7 +80,8 @@ Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý
     *   Thông tin in trên phôi thẻ bị dập sai lỗi chính tả so với giấy tờ gốc (hệ quả từ việc nhập liệu thủ công nhiều bước), buộc phải lập biên bản hủy thẻ và làm lại quy trình từ đầu.
 
 <p align="center">
-  *(Bạn kéo thả file ảnh AS-IS-05 vào đây)*
+  <img width="11092" height="5428" alt="as-05" src="https://github.com/user-attachments/assets/1838ce41-e373-4122-972c-596d946bbfa3" />
+
 </p>
 
 ---
@@ -97,7 +98,8 @@ Hệ thống TO-BE được tái thiết kế theo hướng số hóa toàn di�
     *   Bảo đảm tính toàn vẹn dữ liệu (Single Source of Truth) giữa các bộ phận, mọi thao tác đều ghi nhận trên một cơ sở dữ liệu tập trung, xóa bỏ tình trạng "thẻ ảo".
 
 <p align="center">
-  *(Bạn kéo thả file ảnh TO-BE-00 vào đây)*
+ <img width="5812" height="4696" alt="tobe 00" src="https://github.com/user-attachments/assets/416e0fbd-1318-45b3-8693-6218df8fec49" />
+
 </p>
 
 ### TO-BE 01: Tự động hóa khâu Tiếp nhận và Xử lý hồ sơ
@@ -108,19 +110,24 @@ Hệ thống TO-BE được tái thiết kế theo hướng số hóa toàn di�
     *   Triệt tiêu hoàn toàn rủi ro bảo mật PII phát sinh từ các ứng dụng truyền tải trung gian.
 
 <p align="center">
-  *(Bạn kéo thả file ảnh TO-BE-01 vào đây)*
+  <img width="16384" height="3760" alt="tobe01" src="https://github.com/user-attachments/assets/e6d2bf44-99ca-437b-bfb3-cf23960c6b73" />
+
 </p>
 
 ---
 
 ## ⚙️ 6. Đặc Tả Use Case (Use Case Specifications)
+<img width="906" height="526" alt="uc 00" src="https://github.com/user-attachments/assets/d20fa385-dfcc-4645-82fc-7ab3c21aaf91" />
+
 
 Hệ thống bao gồm tổng cộng 5 Use Case cốt lõi. Nhằm tuân thủ quy định bảo mật thông tin nội bộ (NDA), 3 Use Case thuộc luồng Quản lý/Thẩm định được ẩn đi. Dưới đây là đặc tả chi tiết 2 Use Case tương tác trực tiếp với Người dùng không đăng nhập (End-users).
+
 
 ### 📌 6.1. UC_01: Đăng ký cấp thẻ xe buýt
 
 <p align="center">
-  *(Bạn kéo thả file ảnh chi tiết UC_01 vào đây)*
+  <img width="907" height="807" alt="uc01" src="https://github.com/user-attachments/assets/0beab09d-2b06-4476-8148-f031b612bffe" />
+
 </p>
 
 **6.1.1. Mô tả tóm tắt (Summary)**
@@ -164,7 +171,8 @@ Hệ thống tạo thành công hồ sơ mới với mã Case ID duy nhất. Th�
 ### 📌 6.2. UC_02: Tra cứu hồ sơ
 
 <p align="center">
-  *(Bạn kéo thả file ảnh chi tiết UC_02 vào đây)*
+  <img width="906" height="420" alt="uc02" src="https://github.com/user-attachments/assets/0825a2f5-2a44-4261-8373-8c70d7759466" />
+
 </p>
 
 **6.2.1. Mô tả tóm tắt (Summary)**
@@ -194,7 +202,7 @@ Hệ thống truy vấn đang hoạt động ổn định. Người dùng nắm 
 Hệ thống trả về chính xác thông tin và trạng thái cập nhật mới nhất của hồ sơ mà không làm lộ lọt dữ liệu nhạy cảm của cá nhân.
 
 **6.2.6. Điểm mở rộng (Extension Points)**
-*(Không có - Use Case thực hiện theo luồng tuần tự độc lập).*
+*Không có.*
 
 ---
 
