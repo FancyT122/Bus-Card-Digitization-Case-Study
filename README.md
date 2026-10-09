@@ -57,6 +57,8 @@ Mô tả bức tranh toàn cảnh về luồng luân chuyển hồ sơ vật lý
 
 <p align="center">
   *(Bạn kéo thả file ảnh AS-IS-01 vào đây)*
+  <img width="701" height="708" alt="Ảnh chụp màn hình 2026-05-11 224517" src="https://github.com/user-attachments/assets/b07ad453-2529-4f93-a6a8-01aef8407d1a" />
+
 </p>
 
 ### AS-IS 02: Chụp ảnh và truyền dữ liệu phân tán qua Zalo/USB
