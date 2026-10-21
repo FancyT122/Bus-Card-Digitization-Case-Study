@@ -1,7 +1,5 @@
 # Đặc tả Use Case 01: Đăng ký hồ sơ cấp thẻ mới
 
-*(Bạn nhớ upload file ảnh uc01.png lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ chi tiết Use Case 01](link_hinh_anh_cua_ban)
 
 ## 1. Tóm tắt (Summary)
 Use Case này cho phép người dùng thực hiện đăng ký hồ sơ cấp thẻ xe buýt mới trực tuyến trên ứng dụng BUSGO hoặc nền tảng trình duyệt Web[cite: 8]. Quy trình bao gồm việc khai báo thông tin định danh, lựa chọn đối tượng, cung cấp giấy tờ minh chứng và nộp hồ sơ để chờ xét duyệt[cite: 8].
