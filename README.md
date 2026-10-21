@@ -10,11 +10,11 @@
 
 ## 1. Tổng quan dự án
 *   **Bối cảnh:** Chuyển đổi số toàn diện quy trình cấp phát thẻ giao thông công cộng ưu tiên cho hơn 100.000+ công dân (Người cao tuổi, Trẻ em, Người khuyết tật, Người có công) trên đa nền tảng (Web/Mobile App).
-*   **Vấn đề nghiệp vụ (AS-IS Pain Points):** 
+*   **Vấn đề nghiệp vụ:** 
     *   Quy trình cũ vận hành 100% thủ công trên giấy tờ, gây ùn tắc tại quầy (10-15 phút/hồ sơ).
     *   Truyền tải dữ liệu qua kênh trung gian gây phân mảnh hệ thống, giảm chất lượng ảnh in thẻ và tiềm ẩn rủi ro rò rỉ dữ liệu cá nhân.
     *   Thiếu đồng bộ vật lý dẫn đến hiện tượng "thẻ ảo" (hệ thống báo có nhưng không tìm thấy thẻ thực tế).
-*   **Giải pháp (TO-BE):** Xây dựng hệ thống phần mềm tập trung. Ứng dụng công nghệ quét OCR từ mã QR trên thẻ CCCD gắn chip để tự động bóc tách dữ liệu, chuẩn hóa địa chỉ cư trú thông minh và quản lý vòng đời hồ sơ, kết xuất lô in tự động.
+*   **Giải pháp:** Xây dựng hệ thống phần mềm tập trung. Ứng dụng công nghệ quét OCR từ mã QR trên thẻ CCCD gắn chip để tự động bóc tách dữ liệu, chuẩn hóa địa chỉ cư trú thông minh và quản lý vòng đời hồ sơ, kết xuất lô in tự động.
 
 ## 2. Vai trò & Đóng góp
 Trong dự án quy mô 39 thành viên, với vai trò là **Business Analyst Intern**, tôi chịu trách nhiệm thực thi các hạng mục cốt lõi:
