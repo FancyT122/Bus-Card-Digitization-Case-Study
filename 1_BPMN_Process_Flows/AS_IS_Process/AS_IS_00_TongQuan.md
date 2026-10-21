@@ -1,7 +1,9 @@
 # Phân tích Quy trình AS-IS 00: Tổng quan toàn trình cấp phát thẻ
-
-<img width="1471" height="1185" alt="XEBUS" src="https://github.com/user-attachments/assets/efa27931-e98f-4f5c-b66d-34c04728d8a9" />
-
+<p align="center">
+  <img width="1471" height="1185" alt="XEBUS" src="https://github.com/user-attachments/assets/efa27931-e98f-4f5c-b66d-34c04728d8a9" />
+  <br>
+  <i>Sơ đồ AS-IS 00: Quy trình tổng quan về hệ thống cấp phát thẻ</i>
+</p>
 **1. Bối cảnh luồng nghiệp vụ toàn trình:**
 Quy trình cấp phát thẻ ưu tiên hiện tại đang diễn ra hoàn toàn thủ công qua 6 công đoạn tuần tự, liên quan đến nhiều địa điểm vật lý và luồng dữ liệu phân tán:
 *   **Điểm tiếp nhận trực tiếp:** Phân luồng, viết tay tờ khai, kiểm tra hồ sơ giấy, viết giấy hẹn thủ công, chụp ảnh minh chứng và gom file ảnh gửi qua kênh trung gian.
@@ -13,7 +15,7 @@ Quy trình cấp phát thẻ ưu tiên hiện tại đang diễn ra hoàn toàn 
 *   **Nguy cơ bảo mật dữ liệu:** Truyền tệp ảnh cá nhân qua các ứng dụng nhắn tin trung gian làm suy giảm chất lượng phôi in và tiềm ẩn rủi ro rò rỉ dữ liệu.
 *   **Tổn thất thời gian:** Thời gian chờ đợi để nhận được thẻ kéo dài từ 7–14 ngày làm việc do độ trễ trong việc luân chuyển hồ sơ vật lý.
 
-**3. Định hướng giải pháp số hóa (TO-BE):**
+**3. Định hướng giải pháp số hóa:**
 *   Triển khai hệ thống tiếp nhận đa nền tảng, ứng dụng công nghệ quét OCR từ mã QR trên thẻ Căn cước để tự động hóa khâu điền thông tin, loại bỏ 100% đơn từ giấy.
 *   Đồng bộ dữ liệu và hình ảnh trực tiếp, mã hóa lên máy chủ, khai tử các kênh truyền file trung gian.
 *   Tự động hóa luồng xét duyệt và đóng gói dữ liệu kết xuất in ấn theo lô.
