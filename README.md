@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Tools-Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
   <img src="https://img.shields.io/badge/Documentation-User_Manual-00C7B7?style=for-the-badge" alt="Documentation" />
 </p>
----
 
 ## 1. Tổng quan dự án (Project Overview)
 *   **Bối cảnh:** Chuyển đổi số toàn diện quy trình cấp phát thẻ giao thông công cộng ưu tiên cho hơn 100.000+ công dân (Người cao tuổi, Trẻ em, Người khuyết tật, Người có công) trên đa nền tảng (Web/Mobile App).
@@ -30,8 +29,8 @@ Trong dự án quy mô 39 thành viên, với vai trò là **Business Analyst In
 
 ---
 
-## 4. Cấu trúc tài liệu (Repository Navigation)
-Dưới đây là các tài liệu phân tích nghiệp vụ đã được trích xuất (ẩn danh) để minh chứng năng lực:
+## 4. Cấu trúc tài liệu
+Dưới đây là các tài liệu phân tích nghiệp vụ đã được trích xuất/ẩn danh:
 
 ### 📁 [1. Phân tích Quy trình Nghiệp vụ (BPMN 2.0)](./1_BPMN_Process_Flows)
 *   [Luồng AS-IS 00 - Tổng quan luồng thủ công phân tán](./1_BPMN_Process_Flows/AS-IS_Process/AS_IS_00_TongQuan.md)
