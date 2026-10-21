@@ -1,8 +1,12 @@
 # Phân tích Quy trình TO-BE 01: Tiếp nhận và Khởi tạo hồ sơ số 
+<p align="center">
+<img width="2463" height="810" alt="TOBE_01" src="https://github.com/user-attachments/assets/bdfb1ae3-5c89-4901-87c7-416b94b94139" />
 
-
+  <br>
+  <i>Sơ đồ TO-BE 01: Tiếp nhận và Khởi tạo hồ sơ số </i>
+</p>
 **1. Bối cảnh luồng nghiệp vụ:**
-Đây là luồng tương tác trực tiếp dành cho công dân hoặc nhân viên hỗ trợ tại quầy thông qua Ứng dụng di động hoặc Cổng Web công khai. Luồng này được thiết kế nhằm số hóa và hợp nhất hai công đoạn rời rạc, thủ công của quy trình cũ là "Viết đơn giấy" (AS-IS 01) và "Chụp ảnh qua điện thoại cá nhân" (AS-IS 02).
+Đây là luồng tương tác trực tiếp dành cho công dân hoặc nhân viên hỗ trợ tại quầy thông qua Ứng dụng di động hoặc Cổng Web công khai. Luồng này được thiết kế nhằm số hóa và hợp nhất hai công đoạn rời rạc, thủ công của quy trình cũ là AS-IS 01 (Tiếp nhận và đăng ký hồ sơ).
 
 **2. Cơ chế hoạt động và tính năng cốt lõi:**
 *   **Tự động hóa bóc tách dữ liệu:** Ứng dụng công nghệ quét mã QR trên CCCD gắn chip để tự động giải mã và điền các trường thông tin cá nhân (Số định danh, Họ tên, Ngày sinh, Địa chỉ thường trú...) với thời gian phản hồi cực nhanh (≤ 2 giây).
@@ -11,6 +15,6 @@
 *   **Kiểm soát toàn vẹn dữ liệu:** Thuật toán tự động đối soát toàn hệ thống để chặn đứng việc nộp trùng hồ sơ. Ngay khi nộp thành công, hệ thống tự động sinh Case ID duy nhất để quản lý.
 
 **3. Giá trị nghiệp vụ mang lại:**
-*   **Tối ưu hóa hành trình người dùng (User Journey):** Rút ngắn tổng thời gian đăng ký và chụp ảnh từ 10-15 phút xuống chỉ còn khoảng 3 phút/hồ sơ.
+*   **Tối ưu hóa hành trình người dùng (User Journey):** Rút ngắn tổng thời gian đăng ký và chụp ảnh từ 10-15 phút xuống chỉ còn khoảng 5 phút/hồ sơ.
 *   **Triệt tiêu lỗi nhập liệu:** Loại bỏ 100% rủi ro sai lỗi chính tả thông tin cá nhân nhờ bóc tách trực tiếp từ mã định danh chuẩn quốc gia.
 *   **Bảo mật dữ liệu cá nhân:** Hồ sơ và hình ảnh được đẩy thẳng vào cơ sở dữ liệu mã hóa của hệ thống trung tâm, triệt tiêu nguy cơ rò rỉ khi sử dụng các kênh trung gian hoặc thiết bị cá nhân.
