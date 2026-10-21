@@ -8,24 +8,24 @@
   <img src="https://img.shields.io/badge/Documentation-User_Manual-00C7B7?style=for-the-badge" alt="Documentation" />
 </p>
 
-## 1. Tổng quan dự án (Project Overview)
+## 1. Tổng quan dự án
 *   **Bối cảnh:** Chuyển đổi số toàn diện quy trình cấp phát thẻ giao thông công cộng ưu tiên cho hơn 100.000+ công dân (Người cao tuổi, Trẻ em, Người khuyết tật, Người có công) trên đa nền tảng (Web/Mobile App).
 *   **Vấn đề nghiệp vụ (AS-IS Pain Points):** 
-    *   Quy trình cũ vận hành 100% thủ công trên giấy tờ, gây ùn tắc tại quầy (15-20 phút/hồ sơ).
-    *   Truyền tải dữ liệu qua kênh trung gian (Zalo, USB) gây phân mảnh hệ thống, giảm chất lượng ảnh in thẻ và tiềm ẩn rủi ro rò rỉ dữ liệu cá nhân (PII).
+    *   Quy trình cũ vận hành 100% thủ công trên giấy tờ, gây ùn tắc tại quầy (10-15 phút/hồ sơ).
+    *   Truyền tải dữ liệu qua kênh trung gian gây phân mảnh hệ thống, giảm chất lượng ảnh in thẻ và tiềm ẩn rủi ro rò rỉ dữ liệu cá nhân.
     *   Thiếu đồng bộ vật lý dẫn đến hiện tượng "thẻ ảo" (hệ thống báo có nhưng không tìm thấy thẻ thực tế).
 *   **Giải pháp (TO-BE):** Xây dựng hệ thống phần mềm tập trung. Ứng dụng công nghệ quét OCR từ mã QR trên thẻ CCCD gắn chip để tự động bóc tách dữ liệu, chuẩn hóa địa chỉ cư trú thông minh và quản lý vòng đời hồ sơ, kết xuất lô in tự động.
 
-## 2. Vai trò & Đóng góp (My Role & Contributions)
+## 2. Vai trò & Đóng góp
 Trong dự án quy mô 39 thành viên, với vai trò là **Business Analyst Intern**, tôi chịu trách nhiệm thực thi các hạng mục cốt lõi:
-*   **Mô hình hóa quy trình (Business Process Modeling):** Trực tiếp khảo sát thực địa, phân tích nút thắt cổ chai (bottlenecks) và vẽ chuẩn hóa 6 luồng quy trình hiện tại (AS-IS) cùng 3 luồng quy trình tương lai (TO-BE) bằng chuẩn BPMN 2.0.
-*   **Phân tích hệ thống (System Analysis):** Phối hợp cùng team Product định nghĩa phạm vi hệ thống, phân quyền tác nhân (RBAC) và viết tài liệu Đặc tả Use Case (Use Case Specifications) cho các luồng Front-end.
-*   **Tài liệu hóa (Documentation):** Dẫn dắt (Lead) quá trình biên soạn Tài liệu Hướng dẫn sử dụng (User Manual) cho đa nền tảng (Web, Android, iOS).
+*   **Mô hình hóa quy trình:** Trực tiếp khảo sát thực địa, phân tích nút thắt cổ chai và vẽ chuẩn hóa 6 luồng quy trình hiện tại (AS-IS) cùng 3 luồng quy trình tương lai (TO-BE) bằng chuẩn BPMN 2.0.
+*   **Phân tích hệ thống:** Phối hợp cùng team Product định nghĩa phạm vi hệ thống, phân quyền tác nhân (RBAC) và viết tài liệu Đặc tả Use Case cho các luồng Front-end.
+*   **Tài liệu hóa:** Dẫn dắt quá trình biên soạn Tài liệu Hướng dẫn sử dụng (User Manual) cho đa nền tảng (Web, Android, iOS).
 
-## 3. Giá trị nghiệp vụ mang lại (Key Business Value)
-*   **Tối ưu hóa thời gian (Time-saving):** Ứng dụng QR OCR giúp rút ngắn thời gian tiếp nhận và xử lý hồ sơ tại quầy từ 15-20 phút xuống **dưới 3 phút/người**.
-*   **Nâng cao chất lượng dữ liệu (Data Integrity):** Triệt tiêu hoàn toàn lỗi sai chính tả trong khâu nhập liệu thủ công; tự động chuẩn hóa đơn vị hành chính sau sáp nhập.
-*   **Bảo mật & Tự động hóa:** Loại bỏ khâu luân chuyển trung gian, ứng dụng xử lý ảnh trực tiếp (In-app processing) và phân luồng tra cứu an toàn (Data masking & Rate limiting).
+## 3. Giá trị nghiệp vụ mang lại
+*   **Tối ưu hóa thời gian:** Ứng dụng QR OCR giúp rút ngắn thời gian tiếp nhận và xử lý hồ sơ tại quầy từ 15-20 phút xuống **dưới 3 phút/người**.
+*   **Nâng cao chất lượng dữ liệu:** Triệt tiêu hoàn toàn lỗi sai chính tả trong khâu nhập liệu thủ công; tự động chuẩn hóa đơn vị hành chính sau sáp nhập.
+*   **Bảo mật & Tự động hóa:** Loại bỏ khâu luân chuyển trung gian, ứng dụng xử lý ảnh trực tiếp và phân luồng tra cứu an toàn.
 
 ---
 
