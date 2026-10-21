@@ -5,6 +5,7 @@
   <br>
   <i>Sơ đồ TO-BE 01: Tiếp nhận và Khởi tạo hồ sơ số </i>
 </p>
+
 **1. Bối cảnh luồng nghiệp vụ:**
 Đây là luồng tương tác trực tiếp dành cho công dân hoặc nhân viên hỗ trợ tại quầy thông qua Ứng dụng di động hoặc Cổng Web công khai. Luồng này được thiết kế nhằm số hóa và hợp nhất hai công đoạn rời rạc, thủ công của quy trình cũ là AS-IS 01 (Tiếp nhận và đăng ký hồ sơ).
 
