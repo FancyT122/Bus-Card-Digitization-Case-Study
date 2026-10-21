@@ -1,7 +1,5 @@
 # Phân tích Quy trình TO-BE 00: Tổng quan toàn trình cấp phát thẻ điện tử (End-to-End)
 
-*(Bạn nhớ upload file ảnh tobe 00.jpg lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ TO-BE 00 - Tổng quan](link_hinh_anh_cua_ban)
 
 **1. Tổng quan kiến trúc nghiệp vụ mới:**
 Quy trình TO-BE thay thế hoàn toàn mô hình phân tán, thủ công bằng một hệ thống tập trung, đa nền tảng:
