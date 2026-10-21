@@ -6,6 +6,7 @@
   <br>
   <i>Sơ đồ TO-BE 00: Tổng quan toàn trình cấp phát thẻ điện tử </i>
 </p>
+
 **1. Tổng quan kiến trúc nghiệp vụ mới:**
 Quy trình TO-BE thay thế hoàn toàn mô hình phân tán, thủ công bằng một hệ thống tập trung, đa nền tảng:
 *   **Ứng dụng di động Android/iOS và Cổng Web Công dân:** Cung cấp kênh tương tác trực tiếp cho người dân để đăng ký, nộp minh chứng và tra cứu tiến độ mọi lúc mọi nơi.
