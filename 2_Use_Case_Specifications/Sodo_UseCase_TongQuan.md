@@ -1,5 +1,11 @@
 # Phân tích Sơ đồ Use Case Tổng quan Toàn hệ thống
 
+<p align="center">
+  <img width="906" height="526" alt="uc 00" src="https://github.com/user-attachments/assets/e149d0f0-c113-4da0-ac8e-878514be2082" />
+
+  <br>
+  <i>Sơ đồ Use Case Tổng quan Toàn hệ thống</i>
+</p>
 
 **1. Phạm vi hệ thống:**
 Hệ thống quản lý đăng ký và cấp thẻ điện tử được thiết kế để phục vụ tương tác đa nền tảng, xoay quanh 03 nhóm tác nhân chính với các mức độ phân quyền độc lập nhằm đảm bảo an toàn thông tin và tính chuyên biệt hóa trong khâu vận hành.
