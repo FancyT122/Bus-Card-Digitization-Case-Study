@@ -23,7 +23,7 @@ Trong dự án quy mô 39 thành viên, với vai trò là **Business Analyst In
 *   **Tài liệu hóa:** Dẫn dắt quá trình biên soạn Tài liệu Hướng dẫn sử dụng (User Manual) cho đa nền tảng (Web, Android, iOS).
 
 ## 3. Giá trị nghiệp vụ mang lại
-*   **Tối ưu hóa thời gian:** Ứng dụng QR OCR giúp rút ngắn thời gian tiếp nhận và xử lý hồ sơ tại quầy từ 15-20 phút xuống **dưới 3 phút/người**.
+*   **Tối ưu hóa thời gian:** Ứng dụng QR OCR giúp rút ngắn thời gian tiếp nhận và xử lý hồ sơ tại quầy từ 10-15 phút xuống **dưới 5 phút/người**.
 *   **Nâng cao chất lượng dữ liệu:** Triệt tiêu hoàn toàn lỗi sai chính tả trong khâu nhập liệu thủ công; tự động chuẩn hóa đơn vị hành chính sau sáp nhập.
 *   **Bảo mật & Tự động hóa:** Loại bỏ khâu luân chuyển trung gian, ứng dụng xử lý ảnh trực tiếp và phân luồng tra cứu an toàn.
 
