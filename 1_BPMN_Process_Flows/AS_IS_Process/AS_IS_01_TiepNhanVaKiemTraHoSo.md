@@ -1,7 +1,6 @@
 # Phân tích Quy trình AS-IS 01: Tiếp nhận đơn giấy và kiểm tra hồ sơ tại quầy
 
-*(Bạn nhớ upload file ảnh as01.jpg lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ AS-IS 01 - Tiếp nhận và kiểm tra hồ sơ](link_hinh_anh_cua_ban)
+<img width="2428" height="1053" alt="AS_IS_01" src="https://github.com/user-attachments/assets/329fdd84-8f57-4f14-9391-ae5abc3bbefe" />
 
 **1. Bối cảnh luồng nghiệp vụ:**
 Đây là công đoạn tương tác tuyến đầu giữa công dân và cán bộ tại điểm tiếp nhận. Do đặc thù đối tượng thụ hưởng chính sách là người cao tuổi, người khuyết tật thường gặp trở ngại về vận động và thị lực, cán bộ tiếp nhận phải trực tiếp cầm bút viết tay toàn bộ thông tin cá nhân hộ người dân vào tờ khai. Sau đó, cán bộ thực hiện đối chiếu giấy tờ tùy thân bằng mắt thường và viết phiếu hẹn trả thẻ thủ công.
