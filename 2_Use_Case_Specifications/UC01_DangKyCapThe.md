@@ -44,7 +44,6 @@ Use Case này cho phép người dùng thực hiện đăng ký hồ sơ cấp t
 
 ## 5. Điểm mở rộng
 Không có.
-*   `Tải giấy tờ minh chứng bắt buộc`, `Chụp/Tải ảnh CCCD 2 mặt`, `Nhập thông tin người giám hộ` tùy thuộc vào Nhóm đối tượng ưu tiên được chọn[cite: 8].
 
-## 6. Yêu cầu đặc biệt (Special Requirements)
-*   **Tính khả dụng đa nền tảng:** Giao diện đăng ký trực tuyến phải tương thích trên cả ứng dụng di động (BUSGO) và trình duyệt Web tại địa chỉ cổng thông tin công dân (Đã ẩn danh)[cite: 8].
+## 6. Yêu cầu đặc biệt 
+*   **Tính khả dụng đa nền tảng:** Giao diện đăng ký trực tuyến phải tương thích trên cả ứng dụng di động và trình duyệt Web tại địa chỉ cổng thông tin công dân.
