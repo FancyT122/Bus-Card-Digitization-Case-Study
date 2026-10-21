@@ -1,6 +1,7 @@
 # Phân tích Quy trình AS-IS 01: Tiếp nhận đơn giấy, chụp ảnh và kiểm tra hồ sơ tại quầy
 <p align="center">
-  <img width="2428" height="1053" alt="AS_IS_01" src="https://github.com/user-attachments/assets/329fdd84-8f57-4f14-9391-ae5abc3bbefe" />
+<img width="2429" height="1091" alt="ASIS01" src="https://github.com/user-attachments/assets/e1edb3eb-afae-40cc-80cc-77f5878c600e" />
+
   <br>
   <i>Sơ đồ AS-IS 01: Quy trình tiếp nhận, chụp ảnh và kiểm tra hồ sơ tại quầy</i>
 </p>
