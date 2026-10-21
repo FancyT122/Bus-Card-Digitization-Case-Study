@@ -1,6 +1,6 @@
 # Phân tích Quy trình AS-IS 00: Tổng quan toàn trình cấp phát thẻ
 <p align="center">
-  <img width="1471" height="1185" alt="XEBUS" src="https://github.com/user-attachments/assets/efa27931-e98f-4f5c-b66d-34c04728d8a9" />
+  <img width="1471" height="1185" alt="AS_IS00" src="https://github.com/user-attachments/assets/f0d1e9c9-34e7-4208-9d4a-e9c7735e3270" />
   <br>
   <i>Sơ đồ AS-IS 00: Quy trình tổng quan về hệ thống cấp phát thẻ</i>
 </p>
