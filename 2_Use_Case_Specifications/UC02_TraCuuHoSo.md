@@ -1,7 +1,5 @@
 # Đặc tả Use Case 02: Tra cứu trạng thái hồ sơ
 
-*(Bạn nhớ upload file ảnh uc02.png lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ chi tiết Use Case 02](link_hinh_anh_cua_ban)
 
 ## 1. Tóm tắt (Summary)
 Use Case này cho phép người dùng (công dân hoặc nhân viên hỗ trợ) tra cứu thông tin và theo dõi tiến độ xử lý hồ sơ cấp thẻ xe buýt trên Ứng dụng di động hoặc cổng Web công dân mà không cần đăng nhập vào hệ thống. Người dùng sử dụng Số định danh cá nhân (CCCD) để truy vấn kết quả.
