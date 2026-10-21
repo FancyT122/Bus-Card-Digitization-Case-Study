@@ -1,7 +1,6 @@
 # Phân tích Quy trình AS-IS 00: Tổng quan toàn trình cấp phát thẻ
 
-*(Bạn nhớ upload file ảnh as00.jpg lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ AS-IS 00 - Tổng quan](link_hinh_anh_cua_ban)
+<img width="1471" height="1185" alt="XEBUS" src="https://github.com/user-attachments/assets/efa27931-e98f-4f5c-b66d-34c04728d8a9" />
 
 **1. Bối cảnh luồng nghiệp vụ toàn trình:**
 Quy trình cấp phát thẻ ưu tiên hiện tại đang diễn ra hoàn toàn thủ công qua 6 công đoạn tuần tự, liên quan đến nhiều địa điểm vật lý và luồng dữ liệu phân tán:
