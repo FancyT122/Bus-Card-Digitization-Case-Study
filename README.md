@@ -33,13 +33,14 @@ Trong dự án quy mô 39 thành viên, với vai trò là **Business Analyst In
 Dưới đây là các tài liệu phân tích nghiệp vụ đã được trích xuất/ẩn danh:
 
 ### 📁 [1. Phân tích Quy trình Nghiệp vụ (BPMN 2.0)](./1_BPMN_Process_Flows)
-*   [Luồng AS-IS 00 - Tổng quan luồng thủ công phân tán](./1_BPMN_Process_Flows/AS-IS_Process/AS_IS_00_TongQuan.md)
-*   [Luồng AS-IS 01 & 02 - Điểm nghẽn tiếp nhận đơn giấy và dữ liệu](./1_BPMN_Process_Flows/AS-IS_Process/AS_IS_01_TiepNhanDonGiay.md)
-*   [Luồng TO-BE 00 - Kiến trúc tổng quan hệ thống số hóa](./1_BPMN_Process_Flows/TO-BE_Process/TO_BE_00_TongQuan.md)
-*   [Luồng TO-BE 01 - Tự động hóa khởi tạo hồ sơ số (OCR)](./1_BPMN_Process_Flows/TO-BE_Process/TO_BE_01_DangKySo_OCR.md)
+*   [Luồng AS-IS 00 - Tổng quan luồng thủ công](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_00_TongQuan.md)
+*   [Luồng AS-IS 01 - Tiếp nhận đơn giấy và dữ liệu](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_01_TiepNhanVaKiemTraHoSo.md)
+*   [Luồng AS-IS 02 - Chụp ảnh và bàn giao dữ liệu](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_02_ChupAnhVaBanGiao.md)
+*   [Luồng TO-BE 00 - Kiến trúc tổng quan hệ thống số hóa](./1_BPMN_Process_Flows/TO_BE_Process/TO_BE_00_TongQuan.md)
+*   [Luồng TO-BE 01 - Tự động hóa khởi tạo hồ sơ số](./1_BPMN_Process_Flows/TO-BE_Process/TO_BE_01_TiepNhanVaKhoiTao.md)
 
 ### 📁 [2. Đặc tả Use Case (Use Case Specifications)](./2_Use_Case_Specifications)
-*   [Sơ đồ Use Case Tổng quan & Phân quyền Tác nhân](./2_Use_Case_Specifications/Sodo_UseCase_TongQuan.md)
+*   [Sơ đồ Use Case Tổng quan và Phân quyền Tác nhân](./2_Use_Case_Specifications/Sodo_UseCase_TongQuan.md)
 *   [Đặc tả UC_01: Đăng ký hồ sơ cấp thẻ mới](./2_Use_Case_Specifications/UC01_DangKyCapThe.md)
 *   [Đặc tả UC_02: Tra cứu trạng thái hồ sơ công khai](./2_Use_Case_Specifications/UC02_TraCuuHoSo.md)
 
