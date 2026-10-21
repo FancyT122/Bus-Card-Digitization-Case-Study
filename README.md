@@ -35,7 +35,6 @@ Dưới đây là các tài liệu phân tích nghiệp vụ đã được tríc
 ### 📁 [1. Phân tích Quy trình Nghiệp vụ (BPMN 2.0)](./1_BPMN_Process_Flows)
 *   [Luồng AS-IS 00 - Tổng quan luồng thủ công](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_00_TongQuan.md)
 *   [Luồng AS-IS 01 - Tiếp nhận đơn giấy và dữ liệu](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_01_TiepNhanVaKiemTraHoSo.md)
-*   [Luồng AS-IS 02 - Chụp ảnh và bàn giao dữ liệu](./1_BPMN_Process_Flows/AS_IS_Process/AS_IS_02_ChupAnhVaBanGiao.md)
 *   [Luồng TO-BE 00 - Kiến trúc tổng quan hệ thống số hóa](./1_BPMN_Process_Flows/TO_BE_Process/TO_BE_00_TongQuan.md)
 *   [Luồng TO-BE 01 - Tự động hóa khởi tạo hồ sơ số](./1_BPMN_Process_Flows/TO-BE_Process/TO_BE_01_TiepNhanVaKhoiTao.md)
 
