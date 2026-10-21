@@ -1,7 +1,5 @@
 # Phân tích Sơ đồ Use Case Tổng quan Toàn hệ thống
 
-*(Bạn nhớ upload file ảnh uc 00.png lên cùng thư mục trên GitHub, sau đó thay link ảnh vào dòng bên dưới nhé)*
-![Sơ đồ Use Case Tổng quan](link_hinh_anh_cua_ban)
 
 **1. Phạm vi hệ thống:**
 Hệ thống quản lý đăng ký và cấp thẻ điện tử được thiết kế để phục vụ tương tác đa nền tảng, xoay quanh 03 nhóm tác nhân chính với các mức độ phân quyền độc lập nhằm đảm bảo an toàn thông tin và tính chuyên biệt hóa trong khâu vận hành.
