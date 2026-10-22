@@ -4,6 +4,7 @@
   <br>
   <i>Sơ đồ AS-IS 00: Quy trình tổng quan về hệ thống cấp phát thẻ</i>
 </p>
+
 **1. Bối cảnh luồng nghiệp vụ toàn trình:**
 Quy trình cấp phát thẻ ưu tiên hiện tại đang diễn ra hoàn toàn thủ công qua 6 công đoạn tuần tự, liên quan đến nhiều địa điểm vật lý và luồng dữ liệu phân tán:
 *   **Điểm tiếp nhận trực tiếp:** Phân luồng, viết tay tờ khai, kiểm tra hồ sơ giấy, viết giấy hẹn thủ công, chụp ảnh minh chứng và gom file ảnh gửi qua kênh trung gian.
