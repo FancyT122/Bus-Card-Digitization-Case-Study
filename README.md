@@ -42,7 +42,5 @@ Dưới đây là các tài liệu phân tích nghiệp vụ đã được tríc
 *   [Sơ đồ Use Case Tổng quan và Phân quyền Tác nhân](./2_Use_Case_Specifications/Sodo_UseCase_TongQuan.md)
 *   [Đặc tả UC_01: Đăng ký hồ sơ cấp thẻ mới](./2_Use_Case_Specifications/UC01_DangKyCapThe.md)
 
-### 📁 [3. Tài liệu Hướng dẫn sử dụng (User Manuals)](./3_User_Manuals)
-*   *(Trích đoạn) Hướng dẫn sử dụng nền tảng Web/App dành cho Công dân.*
 ---
 
